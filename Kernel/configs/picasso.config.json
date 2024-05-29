@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "Redmi K305G",
+      "name": "RedmiK305G",
       "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
       "branch": "picasso-r-oss",
       "device": "picasso",
