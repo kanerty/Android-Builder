@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "RedmiK305G",
-      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
-      "branch": "picasso-r-oss",
+      "repo": "https://github.com/EndCredits/kernel_xiaomi_sm7250",
+      "branch": "android-4.19",
       "device": "picasso",
-      "defconfig": "user_defconfig"
+      "defconfig": "picasso_user_defconfig"
     },
     "enableCcache": true,
     "toolchains": [
@@ -42,6 +42,6 @@
       "release": true
     },
     "enableKernelSU": true,
-    "enableLXC": false
+    "enableLXC": true
   }
 ]
